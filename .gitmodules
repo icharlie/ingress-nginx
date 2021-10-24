@@ -1,0 +1,3 @@
+[submodule "rootfs/etc/nginx/lua/plugins/empty_key"]
+	path = rootfs/etc/nginx/lua/plugins/empty_key
+	url = git@github.com:icharlie/empty-key.git
